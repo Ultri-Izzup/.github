@@ -7,6 +7,8 @@ A collective effort to own the software we use.
 [Documentation Websites](https://github.com/Ultri-Izzup/ultri-websites)
 
 [Application Platform](https://github.com/Ultri-Izzup/ultri-platform)
+
+[Sociocracy Habdbook](https://handbook.opensociocracy.org/)
 <!--
 
 **Here are some ideas to get you started:**
