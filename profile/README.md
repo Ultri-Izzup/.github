@@ -2,13 +2,31 @@
 
 A collective effort to own the software we use.
 
+## Websites
+
+### www.ultri.com
+
+Our build-in public us underway. [Visit the site](https://www.ultri.com) to follow our progress.
+
+### coop.ultri.com
+
+Here you will find [cooperative agreement](https://coop.ultri.com) that will eventually help form our bylaws and guide us.
+
+### platform.ultri.com
+
+[Technical docs](https://platform.ultri.com) are available for using, installing and running the application platform.
+
+### handbook.opensociocracy.org
+
+We developed the [free sociocracy handbook](https://handbook.opensociocracy.org) as a tool to help in building our co-op.
+
 ## Repositories
 
 [Documentation Websites](https://github.com/Ultri-Izzup/ultri-websites)
 
 [Application Platform](https://github.com/Ultri-Izzup/ultri-platform)
 
-[Sociocracy Habdbook](https://handbook.opensociocracy.org/)
+[Sociocracy Handbook](https://github.com/OpenSociocracy/documentation-website)
 <!--
 
 **Here are some ideas to get you started:**
