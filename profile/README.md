@@ -1,7 +1,12 @@
-## Ultri 
+# Ultri 
 
 A collective effort to own the software we use.
 
+## Repositories
+
+[Documentation Websites](https://github.com/Ultri-Izzup/ultri-websites)
+
+[Application Platform](https://github.com/Ultri-Izzup/ultri-platform)
 <!--
 
 **Here are some ideas to get you started:**
